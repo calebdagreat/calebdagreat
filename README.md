@@ -1,4 +1,4 @@
-<h1>Peace, I am Caleb Lander-Bey, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Peace, I am Caleb Lander-Bey, an <a href="https://www.linkedin.com/in/caleb-lander-bey/">IT Professional</a>☺</h1>
 
 <h2>👨🏿‍💻 Information Technology Projects:</h2>
 
@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/calebdagreat/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/calebdagreat/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](link coming soon)
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/calebdagreat/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](**Coming Soon...**)
 
 
 <h2>🤳🏽Connect with me:</h2>
